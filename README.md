@@ -1,5 +1,6 @@
 # tryp_reproducibility_Luzak2024
 
 Reproducibilily notebooks for the single cell analysis of Luzak et al. 2024
-
-Documentation to complete. 
+SLAM-seq reveals independent contributions of RNA processing and stability to gene expression in African trypanosomes
+Luzak, Vanessa; Osses, Esteban; Danese, Anna; Odendaal, Christoff; Cosentino, Raúl; Stricker, Stefan; Haanstra, Jurgen; Erhard, Florian; Siegel, T.
+ 
